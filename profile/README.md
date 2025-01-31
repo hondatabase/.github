@@ -24,7 +24,7 @@ We're building a comprehensive resource that covers everything from routine main
 
 ### 🔗 Useful Links
 
-- [Files Archive](http://files.hondatabase.com) (mostly legacy files)
+- [Files Archive](https://files.hondatabase.com) (mostly legacy files)
 - [OBD0/1/2 ECU Pinouts](https://ecu-pinouts.hondatabase.com/) (currently only OBD1 is populated)
 - [OBD0/1 ECU Component List](https://ecu-components.hondatabase.com/)
 
