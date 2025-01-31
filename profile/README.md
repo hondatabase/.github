@@ -26,7 +26,7 @@ We're building a comprehensive resource that covers everything from routine main
 
 - [Files Archive](http://files.hondatabase.com) (mostly legacy files)
 - [Searchable OBD0/1/2 Pin-outs](https://viruxe.github.io/web-honda-pinouts/) (currently only OBD1 is populated)
-- [OBD0/1/2 ECU Component List](http://ecu-components.hondatabase.com/)
+- [OBD0/1 ECU Component List](https://ecu-components.hondatabase.com/)
 
 ### 💬 Join Our Community
 
