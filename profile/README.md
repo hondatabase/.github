@@ -1,10 +1,10 @@
-# Welcome to Hondatabase
+# Welcome to Hondabase
 
 Your Future Honda Technical Knowledge Hub
 
-Hondatabase will be a community-driven, open-source project aiming to become the most reliable and user-friendly knowledgebase for Honda enthusiasts worldwide. Our main website is currently under development, and while some tools are already available, we're working on setting up our repositories and documentation to enable community contributions.
+Hondabase will be a community-driven, open-source project aiming to become the most reliable and user-friendly knowledgebase for Honda enthusiasts worldwide. Our main website is currently under development, and while some tools are already available, we're working on setting up our repositories and documentation to enable community contributions.
 
-## About Hondatabase
+## About Hondabase
 
 We're laying the foundation for a comprehensive resource that will cover everything from routine maintenance to performance modifications for all Honda vehicles. Our goal is to create a platform where both seasoned mechanics and curious owners can find and share valuable information about their Honda vehicles.
 
@@ -12,7 +12,7 @@ Taking inspiration from the detailed technical guides that once populated Honda 
 
 ## Planned Features
 
-* **Community Support**: Hondatabase will thrive on contributions from passionate Honda enthusiasts like you
+* **Community Support**: Hondabase will thrive on contributions from passionate Honda enthusiasts like you
 * **Mobile-First Design**: Access resources on-the-go, right at your fingertips
 * **Transparent and Ad-Free**: We're committed to providing a user-friendly experience without intrusive advertisements
 * **GitHub-Based Collaboration**: All content will be managed through organized repositories, making it easy to contribute, track changes, and maintain quality
@@ -29,13 +29,13 @@ While we're still setting up our contribution infrastructure, here's what you ca
 ## Currently Available Tools
 
 * **Files Archive**: Access our collection of legacy Honda-related files and documents
-  * [files.hondatabase.com](https://files.hondatabase.com)
+  * [files.hondabase.com](https://files.hondabase.com)
 * **ECU Pinouts**: Comprehensive OBD0/1/2 ECU pinout diagrams (OBD1 currently available)
-  * [ecu-pinouts.hondatabase.com](https://ecu-pinouts.hondatabase.com)
+  * [ecu-pinouts.hondabase.com](https://ecu-pinouts.hondabase.com)
 * **ECU Component List**: Detailed OBD0/1 ECU component reference guide
-  * [ecu-components.hondatabase.com](https://ecu-components.hondatabase.com)
+  * [ecu-components.hondabase.com](https://ecu-components.hondabase.com)
 * **VIN Decoder**: Decode Honda Vehicle Identification and Chassis numbers
-  * [vin.hondatabase.com](https://vin.hondatabase.com)
+  * [vin.hondabase.com](https://vin.hondabase.com)
 
 ## Join Our Discord Community
 
@@ -46,8 +46,8 @@ While the codebase and documentation live here, our Discord server will be the h
 * Community events and feature brainstorming sessions
 * Connecting with fellow Honda enthusiasts in a more casual setting
 
-Join us at: [discord.hondatabase.com](http://discord.hondatabase.com)
+Join us at: [discord.hondabase.com](http://discord.hondabase.com)
 
 ---
 
-*Hondatabase - Community-Driven Honda Knowledgebase*
+*Hondabase - Community-Driven Honda Knowledgebase*
